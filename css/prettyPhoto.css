@@ -115,7 +115,7 @@ div.facebook .pp_bottom .pp_middle{background:url(../img/prettyPhoto/facebook/co
 div.facebook .pp_bottom .pp_right{background:url(../img/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat}
 div.pp_pic_holder a:focus{outline:none}
 div.pp_overlay{background:#000;display:none;left:0;position:absolute;top:0;width:100%;z-index:9500}
-div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}
+div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000;overflow-y: auto; -ms-overflow-style: none;scrollbar-width: thin;}
 .pp_content{height:40px;min-width:40px}
 * html .pp_content{width:40px}
 .pp_content_container{position:relative;text-align:left;width:100%}
@@ -142,7 +142,7 @@ a.pp_arrow_previous,a.pp_arrow_next{display:block;float:left;height:15px;margin-
 a.pp_next{background:url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:right;height:100%;text-indent:-10000px;width:49%}
 a.pp_previous{background:url(../img/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:left;height:100%;text-indent:-10000px;width:49%}
 a.pp_expand,a.pp_contract{cursor:pointer;display:none;height:20px;position:absolute;right:30px;text-indent:-10000px;top:10px;width:20px;z-index:20000}
-a.pp_close{position:absolute;right:0;top:0;display:block;line-height:22px;text-indent:-10000px}
+a.pp_close{position:absolute;right:0;top:-20px;display:block;line-height:22px;text-indent:-10000px}
 .pp_loaderIcon{display:block;height:24px;left:50%;position:absolute;top:50%;width:24px;margin:-12px 0 0 -12px}
 #pp_full_res{line-height:1!important}
 #pp_full_res .pp_inline{text-align:left}
