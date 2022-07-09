@@ -517,7 +517,7 @@ ol.type li a, .cat > div a {
 }
 
 .portfolio-item .hover-bg {
-    height: 260px;
+    /*height: 260px;*/
     overflow: hidden;
     position: relative;
 }

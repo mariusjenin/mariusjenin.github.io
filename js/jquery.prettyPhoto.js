@@ -168,7 +168,6 @@
             } else if (e.match(/\bajax=true\b/i)) {
                 return "ajax"
             } else if (e.match(/\bvideo=true\b/i)) {
-                console.log("video")
                 return "video"
             } else if (e.substr(0, 1) == "#") {
                 return "inline"
