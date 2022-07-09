@@ -152,7 +152,6 @@
             c = t;
             h = l + titleHeight + $pp_pic_holder.find(".pp_top").height() + $pp_pic_holder.find(".pp_bottom").height();
             p = t
-            console.log(t,n,detailsHeight)
         }
 
         function S(e) {
@@ -169,6 +168,7 @@
             } else if (e.match(/\bajax=true\b/i)) {
                 return "ajax"
             } else if (e.match(/\bvideo=true\b/i)) {
+                console.log("video")
                 return "video"
             } else if (e.substr(0, 1) == "#") {
                 return "inline"
