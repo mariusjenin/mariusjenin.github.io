@@ -338,7 +338,7 @@ let content = {
         This project has been created while I was completing my last year of my bachelor.
     </div>
     <div class="mb-5">
-        The objective was to create a little game simulating a air hockey. Pour cela j'ai utilisé un moteur physique 2D externe.
+        The objective was to create a little game simulating a air hockey. For this I used an external 2D physics engine.
         The design of the resources was imposed, so I could not improve the aesthetics of the game.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
