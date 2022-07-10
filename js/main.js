@@ -26,12 +26,10 @@ function main() {
 
         let intro = $(".intro")
         nav.on( 'affix.bs.affix', function () {
-            console.log('aff');
             intro.addClass( 'intro-with-nav-bar-free' );
         } );
 
         nav.on( 'affixed-top.bs.affix', function () {
-            console.log('unaff');
             intro.removeClass( 'intro-with-nav-bar-free' );
         } );
 
@@ -98,14 +96,16 @@ function main() {
 
 
         // CounterUp
-        $(document).ready(function ($) {
-            if ($("span.count").length > 0) {
-                $('span.count').counterUp({
-                    delay: 10, // the delay time in ms
-                    time: 1500 // the speed time in ms
-                });
-            }
-        });
+        // $(document).ready(function ($) {
+        //     if ($("span.count").length > 0) {
+        //         $('span.count').counterUp({
+        //             delay: 10, // the delay time in ms
+        //             time: 1500 // the speed time in ms
+        //         });
+        //     }
+        // });
+
+        set_content_project()
 
         // Pretty Photo
         $("a[rel^='project']").prettyPhoto({
