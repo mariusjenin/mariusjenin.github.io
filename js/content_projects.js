@@ -293,7 +293,7 @@ let content = {
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
         <div class="mx-4 my-2 code_lang_card_project"><b>Android</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>Java</b></div>
-        <div class="mx-4 my-2 code_lang_card_project"><b>Php</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>PHP</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>Javascript</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>HTML</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>CSS</b></div>
@@ -310,7 +310,7 @@ let content = {
     "vroum": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This project has been created while I was completing my last year of my bachelor. We were a team of 12 students on the project. 
+        This project has been created while I was completing my last year of my Computer Science degree. We were a team of 12 students on the project. 
         I was the project leader of this one but not all the students were working so I assigned their tasks to myself.
     </div>
     <div class="mb-5">
@@ -319,7 +319,7 @@ let content = {
         The site has a built-in notification system to avoid missing trips and it also has a friends list system to arrange private trips.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
-        <div class="mx-4 my-2 code_lang_card_project"><b>Php</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>PHP</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>Javascript</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>HTML</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>CSS</b></div>
@@ -335,7 +335,7 @@ let content = {
     "miniball": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This project has been created while I was completing my last year of my bachelor.
+        This project has been created while I was completing my last year of my Computer Science degree.
     </div>
     <div class="mb-5">
         The objective was to create a little game simulating a air hockey. For this I used an external 2D physics engine.
@@ -366,7 +366,7 @@ let content = {
         of programming an application to connect with the Microsoft API.
     </div>
     <div class="d-flex flex-row justify-content-center align-items-center">
-        <div class="mx-4 my-2 code_lang_card_project"><b>Php</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>PHP</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>Javascript</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>HTML</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>CSS</b></div>
@@ -378,7 +378,7 @@ let content = {
     "zeldiablo": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This project has been created while I was completing my second year of DUT
+        This project has been created while I was completing my second year of University Diploma of Technology
     </div>
     <div class="mb-5">
         The objective was to create a dungeon game with a character fighting monsters. 
@@ -398,7 +398,7 @@ let content = {
     "gdbp": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This project has been created while I was completing my second year of DUT. We were a team of 3 students on the project.
+        This project has been created while I was completing my second year of University Diploma of Technology. We were a team of 3 students on the project.
     </div>
     <div class="mb-5">
         The objective was to create a platform allowing readers to list their library online. To do so, they just have to 
@@ -406,7 +406,7 @@ let content = {
         their opinion on a book and give it a rating for all to see.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
-        <div class="mx-4 my-2 code_lang_card_project"><b>Php</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>PHP</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>Javascript</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>HTML</b></div>
         <div class="mx-4 my-2 code_lang_card_project"><b>CSS</b></div>
