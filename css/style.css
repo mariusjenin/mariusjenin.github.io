@@ -250,7 +250,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro {
     display: table;
     width: 100%;
-    min-height: calc(100vh - 70px);
+    min-height: calc(100vh - 72px);
     height: auto;
     text-align: center;
     color: #fff;
@@ -261,9 +261,13 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     -o-background-size: cover;
 }
 
+.intro-with-nav-bar-free{
+    min-height: 100vh !important;
+}
+
 .intro .overlay {
     padding: 100px 0;
-    min-height: calc(100vh - 70px);
+    min-height: calc(100vh - 72px);
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100&0.85+0,0.85+100 */
     background: -moz-linear-gradient(left, var(--color-1) 0%, var(--color-2) 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(left, var(--color-1) 0%, var(--color-2) 100%); /* Chrome10-25,Safari5.1-6 */
