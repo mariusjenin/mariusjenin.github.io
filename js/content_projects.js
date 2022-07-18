@@ -13,6 +13,7 @@ let ids = [
     "terminal",
     "vroum",
     "miniball",
+    "slurp",
     "extranet_neftis",
     "zeldiablo",
     "gdbp",
@@ -353,6 +354,29 @@ let content = {
     </div>
 </div>
     `,
+    "slurp": `
+<div class='m-5 card_project'>
+    <div class="mb-5">
+        This project has been created while I was completing my last year of my Computer Science degree.
+    </div>
+    <div class="mb-5">
+        The objective was to create a website listing cocktails and their recipes. 
+        With Slurp we can find cocktails based on ingredients we want and ingredients we don't want.
+    </div>
+    <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
+        <div class="mx-4 my-2 code_lang_card_project"><b>PHP</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>Javascript</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>HTML</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>CSS</b></div>
+        <div class="mx-4 my-2 code_lang_card_project"><b>SQL</b></div>
+    </div>
+    <div class="mt-2">
+        <div class="final_link_card_project">
+            <a href="https://github.com/mariusjenin/slurp" class="mx-2" target="_blank"><b>Github of this project<i class="ml-3 fa-solid fa-link"></i></b></a>
+        </div>
+    </div>
+</div>
+    `,
     "extranet_neftis": `
 <div class='m-5 card_project'>
     <div class="mb-5">
@@ -439,7 +463,7 @@ let content = {
 </div>
     `,
 }
-
+https://github.com/mariusjenin/slurp
 
 function set_content_project() {
     for (let i = 0; i < ids.length; i++) {
