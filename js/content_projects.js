@@ -27,7 +27,7 @@ let content = {
         This game has been created during my internship in Summer 2022 for the company <a href="https://www.linkedin.com/company/metadjioo/about/" target="_blank"><b>Metadjioo</b></a> which promotes and sells wine worldwide.
     </div>
     <div class="mb-5">
-        I came up with the idea of this social game that involves a bottle of wine purchased from Metadjioo and my employer loved it. The players specify which 
+        I came up with the idea of this social game that involves a bottle of wine purchased from Metadjioo and my employer loved it. The players specify which
         tastes they feel in the wine and a score is given to each player at the end of the round. All players can then discuss the experience they have lived.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
@@ -45,16 +45,16 @@ let content = {
     "metadjioo_display_stand": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This project has been created during my internship in Summer 2022 for the company 
-        <a href="https://www.linkedin.com/company/metadjioo/about/" target="_blank"><b>Metadjioo</b></a> 
+        This project has been created during my internship in Summer 2022 for the company
+        <a href="https://www.linkedin.com/company/metadjioo/about/" target="_blank"><b>Metadjioo</b></a>
         which promotes and sells wine worldwide with a futuristic approach and a strong interest in new technologies.
     </div>
     <div class="mb-3">
-        The objective was to create an interactive display stand. A visitor can watch quality videos filmed 
+        The objective was to create an interactive display stand. A visitor can watch quality videos filmed
         by the Metadjioo team about the wines displayed in front of him. He can also consult the technical data sheets of these bottles.
     </div>
     <div class="mb-5">
-       The application provides this interaction by managing both the Android touch screen and a curved presentation screen. 
+       The application provides this interaction by managing both the Android touch screen and a curved presentation screen.
        It will also allow the stand manager to choose which wine to present, with which videos and in which languages.
     </div>
     <div class="mb-5">
@@ -79,7 +79,7 @@ let content = {
         This project has been created while I was completing my first year of my Master's degree.
     </div>
     <div class="mb-5">
-       The objective was to create an interactive application for local merchants to offer items for 
+       The objective was to create an interactive application for local merchants to offer items for
        sale. Users of the application can fill shopping carts and order from individual merchants.
        Some products are offered to customers according to their interests.
     </div>
@@ -104,12 +104,12 @@ let content = {
     <div class="mb-5">
         This game is inspired by the game
         <a href="https://en.wikipedia.org/wiki/Swing_(video_game)" target="_blank"><b>Swing</b></a>
-        created in 1997 by Software 2000. This is an arcade type game where the goal is to reach the highest score possible. 
-        To achieve this, you have to line up balls of the same colour and stack them to merge the balls. The main mechanic is 
+        created in 1997 by Software 2000. This is an arcade type game where the goal is to reach the highest score possible.
+        To achieve this, you have to line up balls of the same colour and stack them to merge the balls. The main mechanic is
         that the columns are not static. They are balances ruled by the weight of the balls.
     </div>
     <div class="mb-5">
-        It's a lot of fun to discover the twenty or so special balls that spice up this game. 
+        It's a lot of fun to discover the twenty or so special balls that spice up this game.
         Their occurrence is controlled so that the difficulty evolves and you can discover each special ball as you go along.
         A general leaderboard of all players is present in our game. Don't hesitate to make your way to the podium!
     </div>
@@ -133,8 +133,8 @@ let content = {
        The objective was to create a game engine and a simulation showing its possibilities.
     </div>
     <div class="mb-5">
-        This game engine includes a graphics engine, a physics engine and interaction possibilities. 
-        This game engine includes : A scene graph, a management of LOD (Level of details), shadows with shadow maps, 
+        This game engine includes a graphics engine, a physics engine and interaction possibilities.
+        There are functionnalities like : A scene graph, a management of LOD (Level of details), shadows with shadow maps,
         Phong's illumination model, different types of light and materials and different bounding boxes for collisions.
     </div>
      <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
@@ -155,11 +155,11 @@ let content = {
         This project has been created while I was completing my first year of my Master's degree.
     </div>
     <div class="mb-5">
-        The objective was to create a tool to transform any image into a superpixel image. 
+        The objective was to create a tool to transform any image into a superpixel image.
         A superpixel is a set of pixels clustered according to a distance factor (here spatial distance and colour distance).
     </div>
     <div class="mb-5">
-        This transformation may have an aesthetic purpose but I focused on its compression potential 
+        This transformation may have an aesthetic purpose but I focused on its compression potential
         and which parameters were more efficient to achieve an ideal compression ratio with the least loss of quality.
     </div>
      <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
@@ -180,7 +180,7 @@ let content = {
         These projects have been created while I was completing my first year of my Master's degree.
     </div>
     <div class="mb-5">
-        One of the most important objectives of image processing is image segmentation: to understand an image 
+        One of the most important objectives of image processing is image segmentation: to understand an image
         in a computerised way and to know how to segment it according to the deduced meaning.
         Several of these projects cover this topic.
     </div>
@@ -214,7 +214,7 @@ let content = {
         These projects have been created while I was completing my first year of my Master's degree.
     </div>
     <div class="mb-5">
-        These projects deal with different topics such as scene graphs, animation, shadow maps, physics 
+        These projects deal with different topics such as scene graphs, animation, shadow maps, physics
         in computer applications, raytracing and 3D with OpenGL in general.
     </div>
      <div class="d-flex flex-row justify-content-center align-items-center">
@@ -234,14 +234,14 @@ let content = {
     <div class="mb-5">
         This game is inspired by the real traditional Japanese game
         <a href="https://fr.wikipedia.org/wiki/Koi-Koi" target="_blank"><b>Koi Koi</b></a>
-        played with Japanese Hanafuda cards. The theme of these cards is the seasons and flowers 
-        (Hanafuda literally means "Flower Game"). The objective was to recreate this game that 
+        played with Japanese Hanafuda cards. The theme of these cards is the seasons and flowers
+        (Hanafuda literally means "Flower Game"). The objective was to recreate this game that
         I especially like and to create an AI for the opponent.
     </div>
     <div class="mb-5">
-        The opponent's AI was particularly complicated to create and it is still not perfect. The algorithm used was first 
-        "Minimax" and then "Alpha Beta Pruning" to gain speed. However, this is a card game where you don't know your 
-        opponent's cards, nor the order of the cards in the deck. So the AI anticipates all possible combinations to 
+        The opponent's AI was particularly complicated to create and it is still not perfect. The algorithm used was first
+        "Minimax" and then "Alpha Beta Pruning" to gain speed. However, this is a card game where you don't know your
+        opponent's cards, nor the order of the cards in the deck. So the AI anticipates all possible combinations to
         choose the most likely one to succeed.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
@@ -261,7 +261,7 @@ let content = {
         This project has been created while I was completing my first year of my Master's degree.
     </div>
     <div class="mb-5">
-        The objective of this simulation is to test an AI in a context. 
+        The objective of this simulation is to test an AI in a context.
         A spy will have to escape from several floors of a building equipped with scanning laser cameras. His goal is to remain undetected.
     </div>
     <div class="mb-5">
@@ -280,7 +280,7 @@ let content = {
     "terminal": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This game has been created during my internship in Summer 2021 for the 
+        This game has been created during my internship in Summer 2021 for the
         <a href="https://www.loria.fr/fr/" target="_blank"><b>Loria</b></a>.
         I was responsible for developing an application for the
         <a href="https://terminal-interreg.eu/en/a-lighthouse-project-on-mobility-in-the-greater-region-2/" target="_blank"><b>Terminal</b></a> project.
@@ -311,12 +311,12 @@ let content = {
     "vroum": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This project has been created while I was completing my last year of my Computer Science degree. We were a team of 12 students on the project. 
+        This project has been created while I was completing my last year of my Computer Science degree. We were a team of 12 students on the project.
         I was the project leader of this one but not all the students were working so I assigned their tasks to myself.
     </div>
     <div class="mb-5">
-        The objective was to create a carpooling platform. Drivers could accept carpoolers in their vehicles in exchange 
-        for a financial contribution. These drivers can create trips on the site and carpoolers can search for and apply for them. 
+        The objective was to create a carpooling platform. Drivers could accept carpoolers in their vehicles in exchange
+        for a financial contribution. These drivers can create trips on the site and carpoolers can search for and apply for them.
         The site has a built-in notification system to avoid missing trips and it also has a friends list system to arrange private trips.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
@@ -360,7 +360,7 @@ let content = {
         This project has been created while I was completing my last year of my Computer Science degree.
     </div>
     <div class="mb-5">
-        The objective was to create a website listing cocktails and their recipes. 
+        The objective was to create a website listing cocktails and their recipes.
         With Slurp we can find cocktails based on ingredients we want and ingredients we don't want.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
@@ -380,13 +380,13 @@ let content = {
     "extranet_neftis": `
 <div class='m-5 card_project'>
     <div class="mb-5">
-        This game has been created during my internship in Summer 2022 for the company 
-        <a href="https://www.neftis.com/" target="_blank"><b>Neftis</b></a> 
+        This game has been created during my internship in Summer 2022 for the company
+        <a href="https://www.neftis.com/" target="_blank"><b>Neftis</b></a>
         which creates website for companies.
     </div>
     <div class="mb-5">
-        The objective was to improve their extranet. This site was used as an ERP and also 
-        as a Task Manager. I was able to add a lot of features to their tool. I was also in charge 
+        The objective was to improve their extranet. This site was used as an ERP and also
+        as a Task Manager. I was able to add a lot of features to their tool. I was also in charge
         of programming an application to connect with the Microsoft API.
     </div>
     <div class="d-flex flex-row justify-content-center align-items-center">
@@ -405,8 +405,8 @@ let content = {
         This project has been created while I was completing my second year of University Diploma of Technology
     </div>
     <div class="mb-5">
-        The objective was to create a dungeon game with a character fighting monsters. 
-        The character has to get through all the floors of the dungeon while staying alive. 
+        The objective was to create a dungeon game with a character fighting monsters.
+        The character has to get through all the floors of the dungeon while staying alive.
         The character has several attacks and fights enemies with various abilities.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
@@ -425,8 +425,8 @@ let content = {
         This project has been created while I was completing my second year of University Diploma of Technology. We were a team of 3 students on the project.
     </div>
     <div class="mb-5">
-        The objective was to create a platform allowing readers to list their library online. To do so, they just have to 
-        enter the unique code of the book (or scan the barcode of it) to add it to their library. Readers can give 
+        The objective was to create a platform allowing readers to list their library online. To do so, they just have to
+        enter the unique code of the book (or scan the barcode of it) to add it to their library. Readers can give
         their opinion on a book and give it a rating for all to see.
     </div>
     <div class="mb-5 d-flex flex-row justify-content-center align-items-center">
