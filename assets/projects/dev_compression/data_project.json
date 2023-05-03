@@ -9,10 +9,10 @@
   "tags" : ["#imageprocessing", "#compression", "#3dimage", "#opengl", "#c++"],
   "hero_img" : "assets/projects/dev_compression/cover.png",
   "content" : [
-    ["image","assets/projects/dev_compression/kmean","5"],
-    ["image","assets/projects/dev_compression/ycrcb","7"],
-    ["image","assets/projects/dev_compression/wavelet_haar","4"],
-    ["image","assets/projects/dev_compression/3dcompression","8"],
+    ["image","assets/projects/dev_compression/kmean.png","5"],
+    ["image","assets/projects/dev_compression/ycrcb.png","7"],
+    ["image","assets/projects/dev_compression/wavelet_haar.png","4"],
+    ["image","assets/projects/dev_compression/3dcompression.png","8"],
     ["text","","break"]
   ],
   "preview_img" : "assets/projects/dev_compression/icon_preview.png",

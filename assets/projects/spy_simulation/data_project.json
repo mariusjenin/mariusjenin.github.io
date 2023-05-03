@@ -10,11 +10,11 @@
   "tags" : ["#simulation", "#ai", "agent", "#bdi","#escapegame", "#python"],
   "hero_img" : "assets/projects/spy_simulation/cover.png",
   "content" : [
-    ["image","assets/projects/spy_simulation/goal","7"],
+    ["image","assets/projects/spy_simulation/goal.png","7"],
     ["text","","break"],
-    ["image","assets/projects/spy_simulation/room_1","5"],
-    ["image","assets/projects/spy_simulation/room_2","5"],
-    ["image","assets/projects/spy_simulation/room_3","7"]
+    ["image","assets/projects/spy_simulation/room_1.png","5"],
+    ["image","assets/projects/spy_simulation/room_2.png","5"],
+    ["image","assets/projects/spy_simulation/room_3.png","7"]
   ],
   "preview_img" : "assets/projects/spy_simulation/icon_preview.png",
   "next_project" : "zeldiablo"

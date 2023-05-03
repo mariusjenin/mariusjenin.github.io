@@ -9,10 +9,10 @@
   "tags" : [ "#game", "#web", "#experience" ,"#marketing", "#wine", "#modern", "#javascript"],
   "hero_img" : "assets/projects/metadjioo_flavor_game/cover.png",
   "content" : [
-    ["image","assets/projects/metadjioo_flavor_game/app_1","10"],
-    ["image","assets/projects/metadjioo_flavor_game/app_2","10"],
-    ["image","assets/projects/metadjioo_flavor_game/app_3","10"],
-    ["image","assets/projects/metadjioo_flavor_game/app_4","10"]
+    ["image","assets/projects/metadjioo_flavor_game/app_1.png","10"],
+    ["image","assets/projects/metadjioo_flavor_game/app_2.png","10"],
+    ["image","assets/projects/metadjioo_flavor_game/app_3.png","10"],
+    ["image","assets/projects/metadjioo_flavor_game/app_4.png","10"]
   ],
   "preview_img" : "assets/projects/metadjioo_flavor_game/icon_preview.png",
   "next_project" : "miniball"

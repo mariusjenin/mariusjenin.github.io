@@ -10,15 +10,15 @@
   "tags" : [ "#game", "#vr", "#spaceship", "asteroid","#glow", "#shoot", "#unity", "#csharp"],
   "hero_img" : "assets/projects/pew_pew/cover.png",
   "content" : [
-    ["video","assets/projects/pew_pew/vid1","10"],
-    ["image","assets/projects/pew_pew/home","5"],
-    ["image","assets/projects/pew_pew/models_1","7"],
-    ["image","assets/projects/pew_pew/asteroid","3"],
-    ["image","assets/projects/pew_pew/broken_asteroid","4"],
-    ["image","assets/projects/pew_pew/splitting_asteroid","4"],
-    ["image","assets/projects/pew_pew/weapons","4"],
-    ["image","assets/projects/pew_pew/cone_shoot","3"],
-    ["image","assets/projects/pew_pew/models_2","5"]
+    ["video","assets/projects/pew_pew/vid1.mp4","10"],
+    ["image","assets/projects/pew_pew/home.png","5"],
+    ["image","assets/projects/pew_pew/models_1.png","7"],
+    ["image","assets/projects/pew_pew/asteroid.png","3"],
+    ["image","assets/projects/pew_pew/broken_asteroid.png","4"],
+    ["image","assets/projects/pew_pew/splitting_asteroid.png","4"],
+    ["image","assets/projects/pew_pew/weapons.png","4"],
+    ["image","assets/projects/pew_pew/cone_shoot.png","3"],
+    ["image","assets/projects/pew_pew/models_2.png","5"]
   ],
   "preview_img" : "assets/projects/pew_pew/icon_preview.png",
   "next_project" : "swing"

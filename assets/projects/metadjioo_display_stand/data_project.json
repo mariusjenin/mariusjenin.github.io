@@ -11,11 +11,11 @@
   "tags" : ["#mobile","#marketing", "#wine", "#modern", "#android", "#java"],
   "hero_img" : "assets/projects/metadjioo_display_stand/cover.png",
   "content" : [
-    ["image","assets/projects/metadjioo_display_stand/display_stand","7"],
-    ["image","assets/projects/metadjioo_display_stand/screen_bootle","5"],
-    ["image","assets/projects/metadjioo_display_stand/app_1","10"],
-    ["image","assets/projects/metadjioo_display_stand/app_2","10"],
-    ["image","assets/projects/metadjioo_display_stand/app_3","10"]
+    ["image","assets/projects/metadjioo_display_stand/display_stand.png","7"],
+    ["image","assets/projects/metadjioo_display_stand/screen_bootle.png","5"],
+    ["image","assets/projects/metadjioo_display_stand/app_1.png","10"],
+    ["image","assets/projects/metadjioo_display_stand/app_2.png","10"],
+    ["image","assets/projects/metadjioo_display_stand/app_3.png","10"]
   ],
   "preview_img" : "assets/projects/metadjioo_display_stand/icon_preview.png",
   "next_project" : "terminal"

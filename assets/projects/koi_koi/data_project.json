@@ -10,10 +10,10 @@
   "tags" : ["#game", "#2d", "#hanafuda", "#koikoi", "#ai", "#aphabeta", "#unity", "#csharp"],
   "hero_img" : "assets/projects/koi_koi/cover.png",
   "content" : [
-    ["image","assets/projects/koi_koi/koikoi_game","10"],
-    ["image","assets/projects/koi_koi/end_round","10"],
-    ["image","assets/projects/koi_koi/ai_end_round","10"],
-    ["image","assets/projects/koi_koi/koikoi","10"]
+    ["image","assets/projects/koi_koi/koikoi_game.png","10"],
+    ["image","assets/projects/koi_koi/end_round.png","10"],
+    ["image","assets/projects/koi_koi/ai_end_round.png","10"],
+    ["image","assets/projects/koi_koi/koikoi.png","10"]
   ],
   "preview_img" : "assets/projects/koi_koi/icon_preview.png",
   "next_project" : "better_spy"

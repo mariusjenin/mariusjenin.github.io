@@ -10,7 +10,7 @@
   "tags" : ["#game", "#2d", "#swing", "#arcade", "#retro", "#unity", "#csharp"],
   "hero_img" : "assets/projects/swing/cover.png",
   "content" : [
-    ["video","assets/projects/swing/vid1","12"],
+    ["video","assets/projects/swing/vid1.mp4","12"],
     ["text",
       "<div class=\"d-flex justify-content-center text-align-center\"><a href=\"assets/projects/swing/swing_windows_64.zip\" class=\"py-3 px-4 m-3 portfolio-btn\">Download the game</a></div>"
     ,"12"]

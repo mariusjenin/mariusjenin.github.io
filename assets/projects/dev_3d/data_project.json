@@ -9,10 +9,10 @@
   "tags" : ["#3d", "#raytracing", "#scenegraph", "#animation", "#physics", "#opengl", "#c++"],
   "hero_img" : "assets/projects/dev_3d/cover.png",
   "content" : [
-    ["image","assets/projects/dev_3d/ray_tracing_1","6"],
-    ["image","assets/projects/dev_3d/ray_tracing_2","6"],
-    ["image","assets/projects/dev_3d/solar_system","9"],
-    ["image","assets/projects/dev_3d/skeleton","3"]
+    ["image","assets/projects/dev_3d/ray_tracing_1.png","6"],
+    ["image","assets/projects/dev_3d/ray_tracing_2.png","6"],
+    ["image","assets/projects/dev_3d/solar_system.png","9"],
+    ["image","assets/projects/dev_3d/skeleton.png","3"]
   ],
   "preview_img" : "assets/projects/dev_3d/icon_preview.png",
   "next_project" : "dev_anim"

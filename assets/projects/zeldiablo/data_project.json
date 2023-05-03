@@ -9,16 +9,16 @@
   "tags" : ["#game", "#2d", "#dungeon", "#aventure", "#monster", "#java"],
   "hero_img" : "assets/projects/zeldiablo/cover.png",
   "content" : [
-    ["image","assets/projects/zeldiablo/floor_12","4"],
-    ["image","assets/projects/zeldiablo/floor_14","4"],
-    ["image","assets/projects/zeldiablo/floor_13","4"],
-    ["image","assets/projects/zeldiablo/floor_10","4"],
-    ["image","assets/projects/zeldiablo/floor_11","4"],
-    ["image","assets/projects/zeldiablo/floor_10","4"],
-    ["image","assets/projects/zeldiablo/floor_3","3"],
-    ["image","assets/projects/zeldiablo/floor_6","3"],
-    ["image","assets/projects/zeldiablo/floor_5","3"],
-    ["image","assets/projects/zeldiablo/floor_8","3"]
+    ["image","assets/projects/zeldiablo/floor_12.png","4"],
+    ["image","assets/projects/zeldiablo/floor_14.png","4"],
+    ["image","assets/projects/zeldiablo/floor_13.png","4"],
+    ["image","assets/projects/zeldiablo/floor_10.png","4"],
+    ["image","assets/projects/zeldiablo/floor_11.png","4"],
+    ["image","assets/projects/zeldiablo/floor_10.png","4"],
+    ["image","assets/projects/zeldiablo/floor_3.png","3"],
+    ["image","assets/projects/zeldiablo/floor_6.png","3"],
+    ["image","assets/projects/zeldiablo/floor_5.png","3"],
+    ["image","assets/projects/zeldiablo/floor_8.png","3"]
   ],
   "preview_img" : "assets/projects/zeldiablo/icon_preview.png",
   "next_project" : "metadjioo_flavor_game"

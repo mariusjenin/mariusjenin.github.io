@@ -9,9 +9,9 @@
   "tags" : ["#web", "#library", "#socialnetwork", "#javascript", "#php"],
   "hero_img" : "assets/projects/gdbp/cover.png",
   "content" : [
-    ["image","assets/projects/gdbp/home","9"],
-    ["image","assets/projects/gdbp/login","9"],
-    ["image","assets/projects/gdbp/books","9"]
+    ["image","assets/projects/gdbp/home.png","9"],
+    ["image","assets/projects/gdbp/login.png","9"],
+    ["image","assets/projects/gdbp/books.png","9"]
   ],
   "preview_img" : "assets/projects/gdbp/icon_preview.png",
   "next_project" : "vroum"

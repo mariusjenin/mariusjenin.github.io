@@ -9,12 +9,12 @@
   "tags" : ["#mobile", "#market", "#merchant", "#local", "#android", "#java"],
   "hero_img" : "assets/projects/yukim_store/cover.png",
   "content" : [
-    ["image","assets/projects/yukim_store/login","4"],
-    ["image","assets/projects/yukim_store/account_creation","4"],
-    ["image","assets/projects/yukim_store/basket","4"],
-    ["image","assets/projects/yukim_store/search_merchant","4"],
-    ["image","assets/projects/yukim_store/merchant","4"],
-    ["image","assets/projects/yukim_store/product","4"]
+    ["image","assets/projects/yukim_store/login.png","4"],
+    ["image","assets/projects/yukim_store/account_creation.png","4"],
+    ["image","assets/projects/yukim_store/basket.png","4"],
+    ["image","assets/projects/yukim_store/search_merchant.png","4"],
+    ["image","assets/projects/yukim_store/merchant.png","4"],
+    ["image","assets/projects/yukim_store/product.png","4"]
   ],
   "preview_img" : "assets/projects/yukim_store/icon_preview.png",
   "next_project" : "slurp"

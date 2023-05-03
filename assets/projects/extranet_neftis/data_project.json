@@ -9,8 +9,8 @@
   "tags" : ["#web", "#extranet", "#javascript", "#php"],
   "hero_img" : "assets/projects/extranet_neftis/cover.png",
   "content" : [
-    ["image","assets/projects/extranet_neftis/task_manager","10"],
-    ["image","assets/projects/extranet_neftis/task_content","10"]
+    ["image","assets/projects/extranet_neftis/task_manager.png","10"],
+    ["image","assets/projects/extranet_neftis/task_content.png","10"]
   ],
   "preview_img" : "assets/projects/extranet_neftis/icon_preview.png",
   "next_project" : "gdbp"
