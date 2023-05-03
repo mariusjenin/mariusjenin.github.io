@@ -1,0 +1,20 @@
+{
+  "title": "Koi Koi",
+  "period": "Winter &amp; Spring 2022",
+  "github": "https://github.com/mariusjenin/game_koi_koi",
+  "description": [
+    "<b>Koi Koi</b> was realized during my first year of Master's degree.",
+    "This game is inspired by the real traditional Japanese game <a href=\"https://fr.wikipedia.org/wiki/Koi-Koi\" target=\"_blank\"><b>Koi Koi</b></a> played with Japanese Hanafuda cards. The theme of these cards is the seasons and flowers (Hanafuda literally means \"Flower Game\").",
+    "The objective was to recreate this game and to create an AI with incomplete information for the opponent."
+  ],
+  "tags" : ["#game", "#2d", "#hanafuda", "#koikoi", "#ai", "#aphabeta", "#unity", "#csharp"],
+  "hero_img" : "assets/projects/koi_koi/cover.png",
+  "content" : [
+    ["image","assets/projects/koi_koi/koikoi_game","10"],
+    ["image","assets/projects/koi_koi/end_round","10"],
+    ["image","assets/projects/koi_koi/ai_end_round","10"],
+    ["image","assets/projects/koi_koi/koikoi","10"]
+  ],
+  "preview_img" : "assets/projects/koi_koi/icon_preview.png",
+  "next_project" : "better_spy"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Pew Pew",
+  "period": "Fall 2022 &amp; Winter 2023",
+  "github": "https://github.com/mariusjenin/pew_pew",
+  "description": [
+    "<b>Pew Pew</b> was realized during my second year of my Master's degree.",
+    "It is a VR game where the player has to shoot on asteroids incoming on him. He has several weapons to face several types of asteroids and he can have a different weapon in each arm.",
+    "The goal is to survive as long as possible."
+  ],
+  "tags" : [ "#game", "#vr", "#spaceship", "asteroid","#glow", "#shoot", "#unity", "#csharp"],
+  "hero_img" : "assets/projects/pew_pew/cover.png",
+  "content" : [
+    ["video","assets/projects/pew_pew/vid1","10"],
+    ["image","assets/projects/pew_pew/home","5"],
+    ["image","assets/projects/pew_pew/models_1","7"],
+    ["image","assets/projects/pew_pew/asteroid","3"],
+    ["image","assets/projects/pew_pew/broken_asteroid","4"],
+    ["image","assets/projects/pew_pew/splitting_asteroid","4"],
+    ["image","assets/projects/pew_pew/weapons","4"],
+    ["image","assets/projects/pew_pew/cone_shoot","3"],
+    ["image","assets/projects/pew_pew/models_2","5"]
+  ],
+  "preview_img" : "assets/projects/pew_pew/icon_preview.png",
+  "next_project" : "swing"
+}

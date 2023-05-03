@@ -1,0 +1,19 @@
+{
+  "title": "Cartoonizer",
+  "period": "Fall 2022 &amp; Winter 2023",
+  "github": "https://github.com/mariusjenin/cartoonizer",
+  "description": [
+    "<b>Cartoonizer</b> was realized during my second year of Master's degree.",
+    "The goal was to implement image processing methods by neural network allowing to transcribe images into cartoon or anime images."
+  ],
+  "tags" : ["#imageprocessing", "#ai", "#cartoon", "#anim", "#styletransfer", "#python"],
+  "hero_img" : "assets/projects/cartoonizer/cover.png",
+  "content" : [
+    ["image","assets/projects/cartoonizer/cartoon_gan_1","6"],
+    ["image","assets/projects/cartoonizer/cartoon_gan_2","6"],
+    ["image","assets/projects/cartoonizer/style_transfer_1","6"],
+    ["image","assets/projects/cartoonizer/style_transfer_2","6"]
+  ],
+  "preview_img" : "assets/projects/cartoonizer/icon_preview.png",
+  "next_project" : "dev_3d_2"
+}

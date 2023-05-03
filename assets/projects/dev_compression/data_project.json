@@ -1,0 +1,20 @@
+{
+  "title": "Image Compression Development",
+  "period": "Winter &amp; Spring 2022",
+  "description": [
+    "These projects were realized during my first year of Master's degree.",
+    "This section contains projects concerning image compression.",
+    "These projects deal with different topics such as compression algorithm like k-means or Haar wavelet transform and with 3D Images."
+  ],
+  "tags" : ["#imageprocessing", "#compression", "#3dimage", "#opengl", "#c++"],
+  "hero_img" : "assets/projects/dev_compression/cover.png",
+  "content" : [
+    ["image","assets/projects/dev_compression/kmean","5"],
+    ["image","assets/projects/dev_compression/ycrcb","7"],
+    ["image","assets/projects/dev_compression/wavelet_haar","4"],
+    ["image","assets/projects/dev_compression/3dcompression","8"],
+    ["text","","break"]
+  ],
+  "preview_img" : "assets/projects/dev_compression/icon_preview.png",
+  "next_project" : "computer_vision"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "GDBP",
+  "period": "Winter &amp; Spring 2020",
+  "github": "https://github.com/mariusjenin/gdbp",
+  "description": [
+    "<b>GDBP</b> was realized during my second year of Technical University Degree.",
+    "The objective was to create a platform allowing readers to list their library online. To do so, they just have to enter the unique code of the book (or scan the barcode of it) to add it to their library. Readers can give their opinion on a book and give it a rating for all to see."
+  ],
+  "tags" : ["#web", "#library", "#socialnetwork", "#javascript", "#php"],
+  "hero_img" : "assets/projects/gdbp/cover.png",
+  "content" : [
+    ["image","assets/projects/gdbp/home","9"],
+    ["image","assets/projects/gdbp/login","9"],
+    ["image","assets/projects/gdbp/books","9"]
+  ],
+  "preview_img" : "assets/projects/gdbp/icon_preview.png",
+  "next_project" : "vroum"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Swing",
+  "period": "Spring 2022",
+  "description": [
+    "<b>Swing</b> was realized during my first year of Master's degree.",
+    "This game is inspired by the game <a href=\"https://en.wikipedia.org/wiki/Swing_(video_game)\" target=\"_blank\"><b>Swing</b></a> created in 1997 by Software 2000. The goal is to reach the highest score possible.",
+    "To achieve this, you have to line up balls of the same colour and stack them to merge the balls. The main mechanic is that the columns are not static. They are balances ruled by the weight of the balls.",
+    "They are a lot of balls and their occurrence is controlled so that the difficulty evolves and the player can discover each special ball as he goes along."
+  ],
+  "tags" : ["#game", "#2d", "#swing", "#arcade", "#retro", "#unity", "#csharp"],
+  "hero_img" : "assets/projects/swing/cover.png",
+  "content" : [
+    ["video","assets/projects/swing/vid1","12"],
+    ["text",
+      "<div class=\"d-flex justify-content-center text-align-center\"><a href=\"assets/projects/swing/swing_windows_64.zip\" class=\"py-3 px-4 m-3 portfolio-btn\">Download the game</a></div>"
+    ,"12"]
+  ],
+  "preview_img" : "assets/projects/swing/icon_preview.png",
+  "next_project" : "avenging_willow"
+}

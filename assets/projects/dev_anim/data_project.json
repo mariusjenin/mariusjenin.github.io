@@ -1,0 +1,25 @@
+{
+  "title": "Animation Development",
+  "period": "Fall 2022",
+  "description": [
+    "These projects were realized during my second year of Master's degree.",
+    "This section contains projects concerning 3D animation.",
+    "These projects deal with different topics such as particles, skinning and surface modeling algorithm."
+  ],
+  "tags" : ["#3d", "#particles", "#skinning", "#arap", "#qt", "#opengl", "#c++"],
+  "hero_img" : "assets/projects/dev_anim/cover.png",
+  "content" : [
+    ["image","assets/projects/dev_anim/arap_1","6"],
+    ["text","","break"],
+    ["image","assets/projects/dev_anim/arap_2","4"],
+    ["image","assets/projects/dev_anim/arap_3","4"],
+    ["image","assets/projects/dev_anim/arap_4","4"],
+    ["image","assets/projects/dev_anim/particles_1","4"],
+    ["image","assets/projects/dev_anim/particles_2","4"],
+    ["image","assets/projects/dev_anim/particles_3","4"],
+    ["image","assets/projects/dev_anim/skinning_1","5"],
+    ["image","assets/projects/dev_anim/skinning_2","5"]
+  ],
+  "preview_img" : "assets/projects/dev_anim/icon_preview.png",
+  "next_project" : "koi_koi"
+}

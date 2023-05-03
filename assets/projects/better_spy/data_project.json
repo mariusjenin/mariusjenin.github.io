@@ -1,0 +1,16 @@
+{
+  "title": "Better Spy",
+  "period": "Fall 2022",
+  "github": "https://github.com/mariusjenin/better_spy",
+  "description": [
+    "<b>Better Spy</b> was realized during my second year of Master's degree and it improves the previous project <a href=\"https://github.com/mariusjenin/spy_simulation\" target=\"_blank\"><b>Spy Simulation</b></a>.",
+    "it was a simulation of a spy AI agent trying to escape from rooms with cameras. Here is the 3D version of this simulation."
+  ],
+  "tags" : ["#simulation", "#3d", "#ai", "#escapegame", "#unity", "#csharp"],
+  "hero_img" : "assets/projects/better_spy/cover.png",
+  "content" : [
+    ["video","assets/projects/better_spy/vid1.mp4","8"]
+  ],
+  "preview_img" : "assets/projects/better_spy/icon_preview.png",
+  "next_project" : "dev_image_processing"
+}

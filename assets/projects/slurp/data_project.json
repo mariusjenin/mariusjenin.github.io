@@ -1,0 +1,20 @@
+{
+  "title": "Slurp",
+  "period": "Fall 2020",
+  "github": "https://github.com/mariusjenin/slurp",
+  "description": [
+    "<b>Slurp</b> was realized during my third year of my Computer Science degree.",
+    "The objective was to create a website listing cocktails and their recipes. Cocktails can be found according to the ingredients they contain and do not contain."
+  ],
+  "tags" : [ "#web", "#cocktails", "#summer", "#php", "#javascript"],
+  "hero_img" : "assets/projects/slurp/cover.png",
+  "content" : [
+    ["image","assets/projects/slurp/home","10"],
+    ["image","assets/projects/slurp/cocktail","10"],
+    ["image","assets/projects/slurp/ingredients_1","6"],
+    ["image","assets/projects/slurp/research","10"],
+    ["image","assets/projects/slurp/ingredients_2","10"]
+  ],
+  "preview_img" : "assets/projects/slurp/icon_preview.png",
+  "next_project" : "bomberman"
+}

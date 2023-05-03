@@ -1,0 +1,23 @@
+{
+  "title": "Photonear",
+  "period": "Fall 2022 &amp; Winter 2023",
+  "github": "https://github.com/mariusjenin/photonear",
+  "description": [
+    "<b>Photonear</b> was realized during my second year of my Master's degree.",
+    "It is a render engine that uses the Photon Mapping technology (see <a href=\"http://graphics.ucsd.edu/~henrik\" target=\"_blank\"><b>Henrik Wann Jensen Researchs</b></a>).",
+    "My renderer includes a full User Interface and a scene visualization editor to get the best renders.",
+    "With photon mapping, we can render scenes in global illumination with caustics (which is often a problem in realistic rendering)."
+  ],
+  "tags" : [ "#renderengine", "#photonmapping", "#raytracing", "refraction","#reflection", "#globalillumination", "#imgui", "#c++"],
+  "hero_img" : "assets/projects/photonear/cover.png",
+  "content" : [
+    ["video","assets/projects/photonear/vid1","12"],
+    ["image","assets/projects/photonear/render_1","7"],
+    ["image","assets/projects/photonear/render_3","5"],
+    ["image","assets/projects/photonear/prerender_2","6"],
+    ["image","assets/projects/photonear/render_2","6"],
+    ["image","assets/projects/photonear/ui","12"]
+  ],
+  "preview_img" : "assets/projects/photonear/icon_preview.png",
+  "next_project" : "game_engine"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Vroum",
+  "period": "Spring 2021",
+  "github": "https://github.com/mariusjenin/vroum_carpooling",
+  "description": [
+    "<b>Vroum</b> was realized during my third year of Computer Science degree where I was the project leader of a dozen of students",
+    "The objective was to create a carpooling platform. Drivers could accept carpoolers in their vehicles in exchange for a financial contribution. These drivers can create trips on the site and carpoolers can search for and apply for them.",
+    "The site has a built-in notification system to avoid missing trips and it also has a friends list system to arrange private trips."
+  ],
+  "tags" : ["#web", "#carpooling", "#trip", "#javascript", "#php"],
+  "hero_img" : "assets/projects/vroum/cover.png",
+  "content" : [
+    ["image","assets/projects/vroum/home","8"],
+    ["image","assets/projects/vroum/menu","8"],
+    ["image","assets/projects/vroum/trip","8"],
+    ["image","assets/projects/vroum/search","8"]
+  ],
+  "preview_img" : "assets/projects/vroum/icon_preview.png",
+  "next_project" : "photonear"
+}
+

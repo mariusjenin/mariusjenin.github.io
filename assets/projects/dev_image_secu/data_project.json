@@ -1,0 +1,26 @@
+{
+  "title": "Image Security Development",
+  "period": "Fall 2022",
+  "description": [
+    "These projects were realized during my second year of Master's degree.",
+    "This section contains projects concerning image processing applied to security and recognition.",
+    "These projects deal with different topics such as convolutive neural networks, image security algorithms, and image recognition."
+  ],
+  "tags" : ["#imageprocessing", "#neuralnetworks", "#ai", "#watermarking", "#imagerecognition", "#python", "#c++"],
+  "hero_img" : "assets/projects/dev_image_secu/cover.png",
+  "content" : [
+    ["image","assets/projects/dev_image_secu/neural_network_1","2"],
+    ["image","assets/projects/dev_image_secu/neural_network_2","2"],
+    ["image","assets/projects/dev_image_secu/neural_network_3","2"],
+    ["image","assets/projects/dev_image_secu/neural_network_4","2"],
+    ["image","assets/projects/dev_image_secu/neural_network_5","2"],
+    ["text","","break"],
+    ["image","assets/projects/dev_image_secu/watermarking_1","4"],
+    ["image","assets/projects/dev_image_secu/watermarking_2","4"],
+    ["image","assets/projects/dev_image_secu/watermarking_3","4"],
+    ["image","assets/projects/dev_image_secu/confusion_matrix","4"],
+    ["image","assets/projects/dev_image_secu/mnist","6"]
+  ],
+  "preview_img" : "assets/projects/dev_image_secu/icon_preview.png",
+  "next_project" : "dev_compression"
+}

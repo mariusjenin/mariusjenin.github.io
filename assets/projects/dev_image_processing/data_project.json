@@ -1,0 +1,25 @@
+{
+  "title": "Image Processing Development",
+  "period": "Winter &amp; Spring 2022",
+  "description": [
+    "These projects were realized during my first year of Master's degree.",
+    "This section contains projects concerning image processing.",
+    "These projects deal with different topics such as image filtering, image segmentation, edges detection, colorspaces and 3D images."
+  ],
+  "tags" : ["#imageprocessing", "#segmentation", "#filtering", "#edgedetection", "#3dimage", "#c++"],
+  "hero_img" : "assets/projects/dev_image_processing/cover.png",
+  "content" : [
+    ["image","assets/projects/dev_image_processing/split_merge_1","4"],
+    ["image","assets/projects/dev_image_processing/split_merge_2","4"],
+    ["image","assets/projects/dev_image_processing/split_merge_3","4"],
+    ["image","assets/projects/dev_image_processing/split_merge_4","4"],
+    ["image","assets/projects/dev_image_processing/split_merge_5","4"],
+    ["text","","break"],
+    ["image","assets/projects/dev_image_processing/dilate_erode_1","5"],
+    ["image","assets/projects/dev_image_processing/dilate_erode_2","5"],
+    ["image","assets/projects/dev_image_processing/iso_surface_1","5"],
+    ["image","assets/projects/dev_image_processing/iso_surface_2","5"]
+  ],
+  "preview_img" : "assets/projects/dev_image_processing/icon_preview.png",
+  "next_project" : "dev_image_secu"
+}

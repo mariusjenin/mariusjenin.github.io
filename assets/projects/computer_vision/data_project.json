@@ -1,0 +1,22 @@
+{
+  "title": "Computer Vision Development",
+  "period": "Fall 2022",
+  "description": [
+    "These projects were realized during my second year of Master's degree.",
+    "This section contains projects concerning VR, AR, XR or computer vision topics like Stereoscopy."
+  ],
+  "tags" : ["#computervision", "#vr", "#ar", "#xr", "#stereoscopy", "#unity", "#csharp", "#python"],
+  "hero_img" : "assets/projects/computer_vision/cover.png",
+  "content" : [
+    ["image","assets/projects/computer_vision/stereoscopy_theory","6"],
+    ["image","assets/projects/computer_vision/stereoscopy_app_1","6"],
+    ["image","assets/projects/computer_vision/stereoscopy_app_2","5"],
+    ["image","assets/projects/computer_vision/stereoscopy_app_3","7"],
+    ["image","assets/projects/computer_vision/vr_app_1","6"],
+    ["image","assets/projects/computer_vision/vr_app_2","6"],
+    ["image","assets/projects/computer_vision/vr_app_3","7"],
+    ["image","assets/projects/computer_vision/ar_app","5"]
+  ],
+  "preview_img" : "assets/projects/computer_vision/icon_preview.png",
+  "next_project" : "superpixel"
+}

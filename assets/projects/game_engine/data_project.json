@@ -1,0 +1,22 @@
+{
+  "title": "Game Engine",
+  "period": "Spring 2022",
+  "github": "https://github.com/mariusjenin/game_engine",
+  "description": [
+    "This <b>Game Engine</b> was realized during my first year of Master's degree.",
+    "It includes a graphics engine, a physics engine and interaction possibilities.",
+    "There are functionnalities like : A scene graph, a management of LOD (Level of details), shadows with shadow maps, Phong's illumination model, different types of light and materials and different bounding boxes for collisions."
+  ],
+  "tags" : ["#gameengine", "#3d", "#game", "#lod", "#physics", "#opengl", "#c++"],
+  "hero_img" : "assets/projects/game_engine/cover.png",
+  "content" : [
+    ["video","assets/projects/game_engine/vid1","12"],
+    ["image","assets/projects/game_engine/physics","6"],
+    ["text","","break"],
+    ["image","assets/projects/game_engine/shadows","6"],
+    ["image","assets/projects/game_engine/shadow_map_1","3"],
+    ["image","assets/projects/game_engine/shadow_map_2","3"]
+  ],
+  "preview_img" : "assets/projects/game_engine/icon_preview.png",
+  "next_project" : "pew_pew"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Bomberman",
+  "period": "Fall 2022",
+  "github": "https://github.com/mariusjenin/bomberman",
+  "description": [
+    "<b>Bomberman</b> was realized in 2019 with a friend of mine.",
+    "The objective was to recreate <a href=\"https://fr.wikipedia.org/wiki/Bomberman\" target=\"_blank\"><b>Bomberman</b></a> with the little technical knowledge we had at that time."
+  ],
+  "tags" : ["#game", "#2d", "#retro", "#javascript"],
+  "hero_img" : "assets/projects/bomberman/cover.png",
+  "content" : [
+    ["image","assets/projects/bomberman/board_1.png","6"],
+    ["image","assets/projects/bomberman/board_2.png","6"],
+    ["text",
+      "<div class=\"d-flex justify-content-center text-align-center\"><a href=\"assets/projects/bomberman/game\" class=\"py-3 px-4 m-3 portfolio-btn\" target=\"_blank\">Try the game</a></div>"
+    ,"12"]
+  ],
+  "preview_img" : "assets/projects/bomberman/icon_preview.png",
+  "next_project" : "extranet_neftis"
+}

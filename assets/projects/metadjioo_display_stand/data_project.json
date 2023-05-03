@@ -1,0 +1,22 @@
+{
+  "title": "Metadjioo Display Stand",
+  "period": "Summer 2022",
+  "github": "https://github.com/mariusjenin/metadjioo_ds",
+  "description": [
+    "<b>The Metadjioo Display Stand</b> was realized during my intership in <a href=\"https://www.linkedin.com/company/metadjioo/about/\" target=\"_blank\"><b>Metadjioo</b></a>.",
+    "The objective was to create an interactive display stand. A visitor can watch quality videos filmed by the Metadjioo team about the wines displayed in front of him. He can also consult the technical data sheets of these bottles.",
+    "The application provides this interaction by managing both the Android touch screen and a curved presentation screen. It will also allow the stand manager to choose which wine to present, with which videos and in which languages.",
+    "Flexible screens attached to bottles also had to be managed to present videos to future customers in an innovative way."
+  ],
+  "tags" : ["#mobile","#marketing", "#wine", "#modern", "#android", "#java"],
+  "hero_img" : "assets/projects/metadjioo_display_stand/cover.png",
+  "content" : [
+    ["image","assets/projects/metadjioo_display_stand/display_stand","7"],
+    ["image","assets/projects/metadjioo_display_stand/screen_bootle","5"],
+    ["image","assets/projects/metadjioo_display_stand/app_1","10"],
+    ["image","assets/projects/metadjioo_display_stand/app_2","10"],
+    ["image","assets/projects/metadjioo_display_stand/app_3","10"]
+  ],
+  "preview_img" : "assets/projects/metadjioo_display_stand/icon_preview.png",
+  "next_project" : "terminal"
+}

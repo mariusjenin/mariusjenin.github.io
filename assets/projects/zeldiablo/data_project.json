@@ -1,0 +1,26 @@
+{
+  "title": "Zeldiablo",
+  "period": "Spring 2020",
+  "github": "https://github.com/mariusjenin/yukim_store",
+  "description": [
+    "<b>Zeldiablo</b> was realized during my second year of Technical University Degree.",
+    "The objective was to create a dungeon game with a character fighting monsters. The character has to get through all the floors of the dungeon while staying alive. The character has several attacks and fights enemies with various abilities."
+  ],
+  "tags" : ["#game", "#2d", "#dungeon", "#aventure", "#monster", "#java"],
+  "hero_img" : "assets/projects/zeldiablo/cover.png",
+  "content" : [
+    ["image","assets/projects/zeldiablo/floor_12","4"],
+    ["image","assets/projects/zeldiablo/floor_14","4"],
+    ["image","assets/projects/zeldiablo/floor_13","4"],
+    ["image","assets/projects/zeldiablo/floor_10","4"],
+    ["image","assets/projects/zeldiablo/floor_11","4"],
+    ["image","assets/projects/zeldiablo/floor_10","4"],
+    ["image","assets/projects/zeldiablo/floor_3","3"],
+    ["image","assets/projects/zeldiablo/floor_6","3"],
+    ["image","assets/projects/zeldiablo/floor_5","3"],
+    ["image","assets/projects/zeldiablo/floor_8","3"]
+  ],
+  "preview_img" : "assets/projects/zeldiablo/icon_preview.png",
+  "next_project" : "metadjioo_flavor_game"
+}
+

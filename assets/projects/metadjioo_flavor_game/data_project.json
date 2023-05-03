@@ -1,0 +1,19 @@
+{
+  "title": "Metadjioo Flavor Game",
+  "period": "Summer 2022",
+  "github": "https://github.com/mariusjenin/metadjioo_web",
+  "description": [
+    "<b>The Metadjioo Flavor Game</b> was realized during my intership in <a href=\"https://www.linkedin.com/company/metadjioo/about/\" target=\"_blank\"><b>Metadjioo</b></a>.",
+    "I came up with the idea of this social game that involves a bottle of wine purchased from Metadjioo. The players specify which tastes they feel in the wine and a score is given to each player at the end of the round according to the accuracy of the answers. All players can then discuss the experience they have lived."
+  ],
+  "tags" : [ "#game", "#web", "#experience" ,"#marketing", "#wine", "#modern", "#javascript"],
+  "hero_img" : "assets/projects/metadjioo_flavor_game/cover.png",
+  "content" : [
+    ["image","assets/projects/metadjioo_flavor_game/app_1","10"],
+    ["image","assets/projects/metadjioo_flavor_game/app_2","10"],
+    ["image","assets/projects/metadjioo_flavor_game/app_3","10"],
+    ["image","assets/projects/metadjioo_flavor_game/app_4","10"]
+  ],
+  "preview_img" : "assets/projects/metadjioo_flavor_game/icon_preview.png",
+  "next_project" : "miniball"
+}

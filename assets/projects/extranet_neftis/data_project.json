@@ -1,0 +1,17 @@
+{
+  "title": "Extranet Neftis",
+  "period": "Summer 2020",
+  "description": [
+    "This project was realized during my intership in <a href=\"https://www.neftis.com/\" target=\"_blank\"><b>Neftis</b></a> for my second year of Technical University Degree.",
+    "The objective was to improve their extranet. This site was used as an ERP and also as a Task Manager. I was able to add a lot of features to their tool.",
+    "I was also in charge of programming an application to connect with the Microsoft API."
+  ],
+  "tags" : ["#web", "#extranet", "#javascript", "#php"],
+  "hero_img" : "assets/projects/extranet_neftis/cover.png",
+  "content" : [
+    ["image","assets/projects/extranet_neftis/task_manager","10"],
+    ["image","assets/projects/extranet_neftis/task_content","10"]
+  ],
+  "preview_img" : "assets/projects/extranet_neftis/icon_preview.png",
+  "next_project" : "gdbp"
+}

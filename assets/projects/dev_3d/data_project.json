@@ -1,0 +1,19 @@
+{
+  "title": "3D Development",
+  "period": "Fall 2021 &amp; Winter 2022",
+  "description": [
+    "These projects were realized during my first year of Master's degree.",
+    "This section contains projects concerning 3D.",
+    "These projects deal with different topics such as scene graphs, animation, shadow maps, physics in computer applications, raytracing and 3D with OpenGL in general."
+  ],
+  "tags" : ["#3d", "#raytracing", "#scenegraph", "#animation", "#physics", "#opengl", "#c++"],
+  "hero_img" : "assets/projects/dev_3d/cover.png",
+  "content" : [
+    ["image","assets/projects/dev_3d/ray_tracing_1","6"],
+    ["image","assets/projects/dev_3d/ray_tracing_2","6"],
+    ["image","assets/projects/dev_3d/solar_system","9"],
+    ["image","assets/projects/dev_3d/skeleton","3"]
+  ],
+  "preview_img" : "assets/projects/dev_3d/icon_preview.png",
+  "next_project" : "dev_anim"
+}

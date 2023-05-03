@@ -1,0 +1,17 @@
+{
+  "title": "Miniball",
+  "period": "Winter 2021",
+  "github": "https://github.com/mariusjenin/miniball",
+  "description": [
+    "<b>Miniball</b> was realized during my third year of my Computer Science degree.",
+    "The objective was to create a little game simulating a air hockey football. For this I used an external 2D physics engine named Box2D."
+  ],
+  "tags" : [ "#game", "#airhockey", "#football" ,"#physics", "#mobile", "#android", "#java"],
+  "hero_img" : "assets/projects/miniball/cover.png",
+  "content" : [
+    ["image","assets/projects/miniball/game_1","6"],
+    ["image","assets/projects/miniball/game_2","6"]
+  ],
+  "preview_img" : "assets/projects/miniball/icon_preview.png",
+  "next_project" : "metadjioo_display_stand"
+}

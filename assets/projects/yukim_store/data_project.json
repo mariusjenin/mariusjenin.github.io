@@ -1,0 +1,22 @@
+{
+  "title": "Yukim Store",
+  "period": "Summer 2022",
+  "github": "https://github.com/mariusjenin/yukim_store",
+  "description": [
+    "<b>Yukim Store</b> was realized during my first year of my Master's degree",
+    "The objective was to create an interactive application for local merchants to offer items for sale. Users of the application can fill shopping carts and order from individual merchants. Some products are offered to customers according to their interests."
+  ],
+  "tags" : ["#mobile", "#market", "#merchant", "#local", "#android", "#java"],
+  "hero_img" : "assets/projects/yukim_store/cover.png",
+  "content" : [
+    ["image","assets/projects/yukim_store/login","4"],
+    ["image","assets/projects/yukim_store/account_creation","4"],
+    ["image","assets/projects/yukim_store/basket","4"],
+    ["image","assets/projects/yukim_store/search_merchant","4"],
+    ["image","assets/projects/yukim_store/merchant","4"],
+    ["image","assets/projects/yukim_store/product","4"]
+  ],
+  "preview_img" : "assets/projects/yukim_store/icon_preview.png",
+  "next_project" : "slurp"
+}
+

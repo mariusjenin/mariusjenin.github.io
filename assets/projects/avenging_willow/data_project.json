@@ -1,0 +1,23 @@
+{
+  "title": "The Avenging Willow",
+  "period": "Spring 2019",
+  "github": "https://github.com/Camille-Bernadas/SeriousGame",
+  "description": [
+    "<b>The Avenging Willow</b> was realized during my second year of Master's degree with other students.",
+    "The goal of this project was to create a game in team by designing it step  by step : Imagine its characteristics, its mechanics and its challenges, understand them in order to implement them in a prototype.",
+    "The creation of a Game Design Document was a major step."
+  ],
+  "tags" : ["#game", "#3d", "#towerdefense", "#strategy", "#management", "#unity","#csharp"],
+  "hero_img" : "assets/projects/avenging_willow/cover.png",
+  "content" : [
+    ["video","assets/projects/avenging_willow/vid1.mp4","8"],
+    ["image","assets/projects/avenging_willow/willow.png","5"],
+    ["image","assets/projects/avenging_willow/map.png","7"],
+    ["image","assets/projects/avenging_willow/victory.png","6"],
+    ["image","assets/projects/avenging_willow/defeat.png","6"],
+    ["image","assets/projects/avenging_willow/game_ui_1.png","6"],
+    ["image","assets/projects/avenging_willow/game_ui_2.png","2"]
+  ],
+  "preview_img" : "assets/projects/avenging_willow/icon_preview.png",
+  "next_project" : "cartoonizer"
+}

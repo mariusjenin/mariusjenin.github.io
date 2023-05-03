@@ -1,0 +1,27 @@
+{
+  "title": "Superpixel",
+  "period": "Winter &amp; Spring 2022",
+  "github": "https://github.com/mariusjenin/superpixel",
+  "description": [
+    "<b>Superpixel</b> was realized during my first year of Master's degree.",
+    "The objective was to create a tool to transform any image into a superpixel image. A superpixel is a set of pixels clustered according to a distance factor.",
+    "This transformation can be for an aesthetic purposes or for a compression purposes."
+  ],
+  "tags" : ["#imageprocessing", "#superpixel", "#escapegame", "#python"],
+  "hero_img" : "assets/projects/superpixel/cover.png",
+  "content" : [
+    ["image","assets/projects/superpixel/alcazar_1","6"],
+    ["image","assets/projects/superpixel/alcazar_2","6"],
+    ["image","assets/projects/superpixel/chameleon_1","4"],
+    ["image","assets/projects/superpixel/chameleon_2","4"],
+    ["image","assets/projects/superpixel/chameleon_3","4"],
+    ["image","assets/projects/superpixel/chameleon_4","4"],
+    ["image","assets/projects/superpixel/chameleon_5","4"],
+    ["image","assets/projects/superpixel/chameleon_6","4"],
+    ["image","assets/projects/superpixel/jungle_1","4"],
+    ["image","assets/projects/superpixel/jungle_2","4"],
+    ["image","assets/projects/superpixel/jungle_3","4"]
+  ],
+  "preview_img" : "assets/projects/superpixel/icon_preview.png",
+  "next_project" : "spy_simulation"
+}

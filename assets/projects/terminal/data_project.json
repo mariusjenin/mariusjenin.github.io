@@ -1,0 +1,28 @@
+{
+  "title": "Terminal",
+  "period": "Summer 2021",
+  "github": "https://github.com/mariusjenin/terminal_mobile",
+  "description": [
+    "<b>Terminal</b> was realized during my internship at <a href=\"https://www.loria.fr/fr/\" target=\"_blank\"><b>Loria</b></a> for my third year of Computer Science degree.",
+    "The objective of this project is to make driverless shuttle trips between Germany, Belgium, Luxembourg and the Grand-Est region in France.",
+    "The application had to be a platform for reserving trips for users and for live visualisation of the trip and the position of the shuttle.",
+    "There is also an administration website to create new trips and manage the system."
+  ],
+  "tags" : ["#web", "#mobile", "#mobility", "#europe", "#android", "#java", "#javascript", "#php"],
+  "hero_img" : "assets/projects/terminal/cover.png",
+  "content" : [
+    ["image","assets/projects/terminal/mobile_login","4"],
+    ["image","assets/projects/terminal/mobile_reserve","4"],
+    ["image","assets/projects/terminal/mobile_trip","4"],
+    ["image","assets/projects/terminal/login","8"],
+    ["image","assets/projects/terminal/menu","8"],
+    ["image","assets/projects/terminal/create_itinerary","8"],
+    ["image","assets/projects/terminal/create_trip","8"],
+    ["text",
+      "<div class=\"d-flex justify-content-center text-align-center\"><a href=\"https://github.com/mariusjenin/terminal_web\" class=\"py-3 px-4 m-3 portfolio-btn\" target=\"_blank\">Github of administration site</a></div>"
+    ,"12"]
+  ],
+  "preview_img" : "assets/projects/terminal/icon_preview.png",
+  "next_project" : "photonear"
+}
+

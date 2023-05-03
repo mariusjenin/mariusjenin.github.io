@@ -1,0 +1,21 @@
+{
+  "title": "Spy Simulation",
+  "period": "Winter 2022",
+  "github": "https://github.com/mariusjenin/spy_simulation",
+  "description": [
+    "<b>Spy Simulation</b> was realized during my first year of Master's degree.",
+    "The objective was to create an agent able to achieve an objective with only a small set of rules. The agent need to go from a point A to a point B within a room with rotating cameras.",
+    "This simulation use the BDI model for symbolic AI."
+  ],
+  "tags" : ["#simulation", "#ai", "agent", "#bdi","#escapegame", "#python"],
+  "hero_img" : "assets/projects/spy_simulation/cover.png",
+  "content" : [
+    ["image","assets/projects/spy_simulation/goal","7"],
+    ["text","","break"],
+    ["image","assets/projects/spy_simulation/room_1","5"],
+    ["image","assets/projects/spy_simulation/room_2","5"],
+    ["image","assets/projects/spy_simulation/room_3","7"]
+  ],
+  "preview_img" : "assets/projects/spy_simulation/icon_preview.png",
+  "next_project" : "zeldiablo"
+}
