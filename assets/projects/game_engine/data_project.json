@@ -11,11 +11,11 @@
   "hero_img" : "assets/projects/game_engine/cover.png",
   "content" : [
     ["video","assets/projects/game_engine/vid1.mp4","12"],
-    ["image","assets/projects/game_engine/physics.png","6"],
-    ["text","","break"],
     ["image","assets/projects/game_engine/shadows.png","6"],
     ["image","assets/projects/game_engine/shadow_map_1.png","3"],
-    ["image","assets/projects/game_engine/shadow_map_2.png","3"]
+    ["image","assets/projects/game_engine/shadow_map_2.png","3"],
+    ["text","","break"],
+    ["image","assets/projects/game_engine/physics.png","5"]
   ],
   "preview_img" : "assets/projects/game_engine/icon_preview.png",
   "next_project" : "pew_pew"

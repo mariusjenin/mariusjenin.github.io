@@ -976,8 +976,10 @@
     // Utility function
     function Util () {};
 
+console.log(Util)
 // class manipulation functions
 Util.hasClass = function(el, className) {
+    console.log(el)
     if (el.classList) return el.classList.contains(className);
     else return !!el.className.match(new RegExp('(\\s|^)' + className + '(\\s|$)'));
 };
