@@ -78,9 +78,7 @@ function load_project() {
                     console.log(error.message)
                 });
             }).catch((error) => {
-            console.log(error.message)
-            alert()
-            window.location.href = window.location.toString().split("/").slice(0, -1).join("/") + "/projects";
+                window.location.href = window.location.toString().split("/").slice(0, -1).join("/") + "/projects";
         });
     }
 }

@@ -23,6 +23,13 @@ let json_data = [
         "link": "project?project=pew_pew"
     },
     {
+        "title": "Style Dreamer",
+        "period": "Fall 2022 &amp; Winter 2023",
+        "cover": "assets/projects/style_dreamer/icon_preview.png",
+        "categories": ["3d ai image_processing software"],
+        "link": "project?project=style_dreamer"
+    },
+    {
         "title": "Swing",
         "period": "Spring 2022",
         "cover": "assets/projects/swing/icon_preview.png",

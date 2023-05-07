@@ -3084,6 +3084,10 @@ Descr: Multi-state button elements
   margin-left: 8pt;
 }
 
+.ms-btn__text{
+  font-size:20px
+}
+
 .ms-btn__text,
 .ms-btn__icon {
   transition: all 250ms var(--ease-out);
@@ -8930,21 +8934,24 @@ body[data-theme=dark] .portfolio-feed {
 }
 @media screen and (max-width: 1250px) {
   .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content .title-area .title {
-    font-size: 70px;
+    font-size: 60px;
     margin-top: 30px;
     margin-bottom: 15px;
   }
 }
 @media screen and (max-width: 767px) {
   .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content .title-area .title {
-    font-size: 60px;
+    font-size: 42px;
   }
 }
+.index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content {
+  width: 100%;
+}
+
 .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content p.disc {
   font-size: 20px;
   width: 100%;
-  margin-top: 15px;
-  margin: 20px 0px 40px 0px;
+  margin: 20px 8px 40px 8px;
   font-weight: 400;
   line-height: 32px;
   color: #FFFFFFB0;
@@ -8953,6 +8960,7 @@ body[data-theme=dark] .portfolio-feed {
   .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content p.disc {
     font-size: 16px;
     width: 40%;
+    line-height: 30px;
   }
   .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content p.disc br {
     display: none;
@@ -8960,8 +8968,9 @@ body[data-theme=dark] .portfolio-feed {
 }
 @media (max-width: 991px) {
   .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content p.disc {
-    width: 50%;
-    margin: 20px auto 20px auto;
+    width: auto ;
+    line-height: 28px;
+    margin: 20px;
   }
   .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content p.disc br {
     display: none;
@@ -8969,7 +8978,8 @@ body[data-theme=dark] .portfolio-feed {
 }
 @media (max-width: 576px) {
   .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content p.disc {
-    width: 100%;
+    width: auto;
+    line-height: 24px;
   }
 }
 .index-two .ms-main .swiper-container-h .swiper-wrapper .swiper-slide .slider-inner .swiper-content .btn-wrap .btn {
@@ -14116,7 +14126,7 @@ Descr: Blog Sidebar style
 }
 @media (hover: none) {
   .ms_theme_mode .theme-toggle {
-    --size: 48px;
+    --size: 28px;
   }
 }
 .ms_theme_mode .sun-and-moon {
@@ -14169,6 +14179,7 @@ body[data-theme=dark] .ms_theme_mode .sun-and-moon > .moon > circle {
   position: absolute;
   display: block;
   cursor: pointer;
+  padding:5px;
   top: 0;
   left: 0;
   width: 100%;

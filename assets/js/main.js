@@ -857,39 +857,64 @@
 
     // Theme Mode
     function ms_theme_mode() {
+        function setDarkTheme(){
+            $(tl).removeClass("toggler--is-active");
+            $(s).prop('checked', false);
+            $(this).addClass('toggler--is-active');
+            $('body').attr('data-theme', 'dark');
+            var theme = $('body').attr('data-theme');
+            setCookie('theme-mode', theme, {expires : 30});
+        }
+        function setLightTheme(){
+            $(tl).removeClass("toggler--is-active");
+            $(s).prop('checked', true);
+            $(this).addClass('toggler--is-active');
+            $('body').attr('data-theme', 'light');
+            var theme = $('body').attr('data-theme');
+            setCookie('theme-mode', theme, {expires : 30});
+        }
+        function switchTheme(){
+            $(td).toggleClass("toggler--is-active");
+            $(tl).toggleClass("toggler--is-active");
+            $('body').attr('data-theme', $('body').attr('data-theme') == 'light' ? 'dark' : 'light');
+            var theme = $('body').attr('data-theme');
+            setCookie('theme-mode', theme, {expires : 30});
+        }
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        }
+        function getCookie(cname) {
+            let name = cname + "=";
+            let decodedCookie = decodeURIComponent(document.cookie);
+            let ca = decodedCookie.split(';');
+            for(let i = 0; i <ca.length; i++) {
+                let c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
         if ($.exists('.ms_theme_mode')) {
             var td = $("#theme-dark"),
                 tl = $("#theme-light"),
                 s = $("#switcher");
-            $(td).on("click", function(){
-                $(tl).removeClass("toggler--is-active");
-                $(s).prop('checked', false);
-                $(this).addClass('toggler--is-active');
-                $('body').attr('data-theme', 'dark');
-                var theme = $('body').attr('data-theme');
-                setCookie('theme-mode', theme, {expires : 30});
-                });
-            $(tl).on("click", function(){
-                $(td).removeClass("toggler--is-active");
-                $(s).prop('checked', true);
-                $(this).addClass('toggler--is-active');
-                $('body').attr('data-theme', 'light');
-                var theme = $('body').attr('data-theme');
-                setCookie('theme-mode', theme, {expires : 30});
-            });
-            $(s).on("click", function(){
-                $(td).toggleClass("toggler--is-active");
-                $(tl).toggleClass("toggler--is-active");
-                $('body').attr('data-theme', $('body').attr('data-theme') == 'light' ? 'dark' : 'light');
-                var theme = $('body').attr('data-theme');
-                setCookie('theme-mode', theme, {expires : 30});
-            });
-            function setCookie(cname, cvalue, exdays) {
-                var d = new Date();
-                d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
-                var expires = "expires=" + d.toUTCString();
-                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            $(td).on("click", setDarkTheme);
+            $(tl).on("click", setLightTheme);
+            $(s).on("click", switchTheme);
+            let theme = getCookie("theme-mode")
+            if (theme === "dark"){
+                setDarkTheme()
+            } else {
+                setLightTheme()
             }
+
         }
     }
 
@@ -976,7 +1001,6 @@
     // Utility function
     function Util () {};
 
-console.log(Util)
 // class manipulation functions
 Util.hasClass = function(el, className) {
     console.log(el)
