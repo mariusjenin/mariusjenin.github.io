@@ -215,7 +215,7 @@ function load_portfolio(){
         let pjt_link = project_data["link"]
         let pjt_categories = project_data["categories"]
         html_projects +=
-            `<div class="fadein zoom center h-align-middle grid-item-p element-item transition ${pjt_categories}  col-md-4 col-lg-3" data-category="transition">
+            `<div class="fadein zoom center h-align-middle grid-item-p element-item transition ${pjt_categories} col-6 col-md-4 col-lg-3" data-category="transition">
                 <div class="item--inner">
                     <a href="${pjt_link}" aria-label="${pjt_name}">
                         <figure class="ms-p-img">

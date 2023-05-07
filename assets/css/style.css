@@ -8517,13 +8517,13 @@ Post Feed Card Style
   will-change: transform;
 }
 .portfolio_wrap .portfolio-feed .item--inner .ms-p-content h3 {
-  font-size: 20px;
   text-transform: uppercase;
   padding-top: var(--space-xs);
   font-size: 24px;
   font-weight: 800;
   transition: color 0.5s var(--ease-out);
 }
+
 .portfolio_wrap .portfolio-feed .item--inner .ms-p-content .ms-p-cat {
   color: var(--color-contrast-medium);
   font-size: 16px;
@@ -8560,6 +8560,11 @@ Post Feed Card Style
   transform: translateX(0) translateY(0%);
   text-transform: uppercase;
 }
+@media (max-width: 767px) {
+  .portfolio_wrap .portfolio-feed .fadein .ms-p-content .ms-p-cat {
+    font-size: 12px;
+  }
+}
 .portfolio_wrap .portfolio-feed .fadein .ms-p-content h3::after {
   content: none;
 }
@@ -8572,6 +8577,11 @@ Post Feed Card Style
 .portfolio_wrap .portfolio-feed .fadein .ms-p-content h3 {
   font-size: 18px;
   backface-visibility: hidden;
+}
+@media (max-width: 767px) {
+  .portfolio_wrap .portfolio-feed .fadein .ms-p-content h3 {
+    font-size: 15px;
+  }
 }
 .portfolio_wrap .portfolio-feed .fadein:hover .ms-p-content {
   opacity: 1;
@@ -9318,6 +9328,15 @@ body.index-two[data-footer-effect=on] {
 .ms-portfolio-filter-area.project .portfolio_wrap .portfolio-feed .grid-item-p {
   padding-right: 1.2rem;
   padding-left: 1.2rem;
+  margin-top: 2.4rem;
+}
+
+@media (max-width: 767px) {
+  .ms-portfolio-filter-area.project .portfolio_wrap .portfolio-feed .grid-item-p {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+    margin-top: 1.5rem;
+  }
 }
 .ms-portfolio-filter-area.project .portfolio_wrap .item--inner .ms-p-img::after {
   background: rgba(0, 0, 0, 0.4);
