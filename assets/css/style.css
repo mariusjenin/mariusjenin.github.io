@@ -241,6 +241,7 @@ body, [data-theme=light] {
 
 @supports (--css: variables) {
   [data-theme=dark] {
+    --test: hsl(47, 85%, 46%);
     --color-primary-darker: hsl(285, 85%, 46%);
     --color-primary-darker-h: 12;
     --color-primary-darker-s: 85%;
@@ -10415,7 +10416,7 @@ body.index-six[data-theme=dark] .ms-main.home-six.list .ms-portfolio-filter-area
 .project-single-wrap .portfolio-image:hover a img {
   opacity: 0.8;
 }
-.project-single-wrap .portfolio-image a img {
+.project-single-wrap .portfolio-image img {
   width: 100%;
   border-radius: 24pt;
   transition: all 0.4s;
@@ -18201,4 +18202,73 @@ html:not(.js) .filter-nav__nav {
   color : #23b377;
   word-spacing: 18px;
   text-transform: lowercase;
+}
+
+.btn_cv{
+  border-radius: 6pt;
+  background-color: var(--color-contrast-high);
+  color: var(--color-contrast-lower);
+}
+
+#modal_window{
+  background-color: rgba(24,24,24,0.7);
+  backdrop-filter: blur(10px);
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  z-index: 1000;
+}
+
+.btn_modal{
+  width: 7%;
+}
+
+.icon_btn_modal{
+  width: 25px;
+  height: 25px;
+  object-fit: scale-down;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.icon_btn_modal:hover{
+  opacity: 0.8;
+}
+
+.btn_leave_modal{
+  position: relative;
+  height: 30px;
+}
+
+.icon_btn_leave_modal{
+  right: 0;
+  position: absolute;
+}
+
+.figure_modal{
+  width: 86%;
+  height: 100%;
+}
+
+#figure_caption{
+  line-height: 30px;
+}
+
+#media_container{
+  max-width: 100%;
+  max-height: calc(100% - 60px);
+}
+
+#media_modal{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: scale-down;
+  border-radius: 5px;
+}
+
+.remove-scrolling {
+  height: 100%;
+  overflow: hidden;
 }
