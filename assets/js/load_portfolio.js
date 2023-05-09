@@ -37,6 +37,13 @@ let json_data = [
         "link": "project?project=swing"
     },
     {
+        "title": "Pipeline Development",
+        "period": "Winter 2023 &amp; Spring 2023",
+        "cover": "assets/projects/dev_pipeline/icon_preview.png",
+        "categories": ["3d software ai"],
+        "link": "project?project=dev_pipeline"
+    },
+    {
         "title": "The Avenging Willow",
         "period": "Fall 2022",
         "cover": "assets/projects/avenging_willow/icon_preview.png",
@@ -110,7 +117,7 @@ let json_data = [
         "title": "Computer Vision Development",
         "period": "Fall 2022",
         "cover": "assets/projects/computer_vision/icon_preview.png",
-        "categories": ["image_processing 3d"],
+        "categories": ["software image_processing 3d"],
         "link": "project?project=computer_vision"
     },
     {

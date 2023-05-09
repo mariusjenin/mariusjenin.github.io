@@ -7,7 +7,7 @@
     "It is a VR game where the player has to shoot on asteroids incoming on him. He has several weapons to face several types of asteroids and he can have a different weapon in each arm.",
     "The goal is to survive as long as possible."
   ],
-  "tags" : [ "#game", "#vr", "#spaceship", "asteroid","#glow", "#shoot", "#unity", "#csharp"],
+  "tags" : [ "#game", "#vr", "#spaceship", "#asteroid","#glow", "#shoot", "#unity", "#csharp"],
   "hero_img" : "assets/projects/pew_pew/cover.png",
   "content" : [
     ["video","assets/projects/pew_pew/vid1.mp4","10"],

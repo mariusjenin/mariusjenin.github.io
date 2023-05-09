@@ -1,5 +1,18 @@
 // window.addEventListener('resize', load_project);
 window.addEventListener('load', load_project);
+$(window).on( "keydown", function(event) {
+    let id_key = event.which
+    if(id_key === 37 || id_key===38){
+        // LEFT or UP
+        load_previous()
+    } else if(id_key === 39 || id_key===40){
+        //RIGHT or DOWN
+        load_next()
+    } else if(id_key === 27){
+        // ESCAPE
+        leave_modal()
+    }
+});
 let media = []
 let current_index = 0
 
@@ -93,7 +106,7 @@ function display_modal(index){
     $("body").append(
         `<div onclick="leave_modal();" id="modal_window" class="d-flex flex-row align-items-center justify-content-between py-2">
             <div onclick="event.stopPropagation()" class="btn_modal text-center">
-                <img onclick="load_previous()" src="assets/images/modal/left.png" class="icon_btn_modal" alt="left btn">
+                <img onclick="load_previous()" id="arrow_previous" src="assets/images/modal/left.png" class="icon_btn_modal" alt="left btn">
             </div>
             <figure class="d-flex flex-column justify-content-center align-items-center figure_modal">
                 <div id="media_container" class="text-center">
@@ -102,7 +115,7 @@ function display_modal(index){
                 <figcaption onclick="event.stopPropagation()" id="figure_caption" class="text-center text-white"></figcaption>
             </figure>
             <div onclick="event.stopPropagation()" class="btn_modal text-center">
-                <img onclick="load_next()" src="assets/images/modal/right.png" class="icon_btn_modal" alt="left btn">
+                <img onclick="load_next()" id="arrow_next" src="assets/images/modal/right.png" class="icon_btn_modal" alt="left btn">
             </div>
         </div>`)
     load_media()
@@ -125,28 +138,36 @@ function load_media(){
     if(nb_media > 1){
         $("#figure_caption").html((current_index+1)+" of "+nb_media)
     } else {
-        $("#figure_caption").html("")
+        $("#figure_caption").hide()
+        $("#arrow_previous").hide()
+        $("#arrow_next").hide()
     }
 }
 
 function load_previous(){
-    let index = current_index-1
-    if(index<0){
-        current_index = media.length-1
-    } else {
-        current_index = index
+    nb_media = media.length
+    if( nb_media !== 1) {
+        let index = current_index - 1
+        if (index < 0) {
+            current_index = nb_media - 1
+        } else {
+            current_index = index
+        }
+        load_media()
     }
-    load_media()
 }
 
 function load_next(){
-    let index = current_index+1
-    if(index>=media.length){
-        current_index = 0
-    } else {
-        current_index = index
+    nb_media = media.length
+    if( nb_media !== 1){
+        let index = current_index+1
+        if(index>=nb_media){
+            current_index = 0
+        } else {
+            current_index = index
+        }
+        load_media()
     }
-    load_media()
 }
 
 function leave_modal(){

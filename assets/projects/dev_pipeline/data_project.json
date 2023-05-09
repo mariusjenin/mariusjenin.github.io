@@ -1,0 +1,28 @@
+{
+  "title": "Pipeline Development",
+  "period": "Winter 2023 &amp; Spring 2023",
+  "github": "https://github.com/Illogicstudios",
+  "description": [
+    "These projects were realized while I was in <a href=\"https://www.illogicstudios.com//\" target=\"_blank\"><b>Illogic Studio</b></a>.",
+    "There are plugins to existent software like Maya, Nuke or Houdini. These tools help artists work more efficiently or help strengthen the studio's production pipeline.",
+    "We can distinguish tools like the Asset Loader which allows to do versioning on assets and to load them at our convenience, mAIrus which is a tool implementing Chat-GPT in Maya or the Bug-Out Bag which gathers a lot of small useful features."
+  ],
+  "tags" : ["#pipeline", "#tool", "#maya", "#nuke", "#chatgpt", "#ai", "#python"],
+  "hero_img" : "assets/projects/dev_pipeline/cover.png",
+  "content" : [
+    ["image","assets/projects/dev_pipeline/shelf.png","10"],
+    ["text","","break"],
+    ["video","assets/projects/dev_pipeline/shader_maker.mp4","8"],
+    ["image","assets/projects/dev_pipeline/mAIrus.png","4"],
+    ["image","assets/projects/dev_pipeline/abc_import.png","4"],
+    ["image","assets/projects/dev_pipeline/asset_loader.png","8"],
+    ["image","assets/projects/dev_pipeline/bug_out_bag.png","3"],
+    ["image","assets/projects/dev_pipeline/control_room_1.png","3"],
+    ["image","assets/projects/dev_pipeline/control_room_2.png","3"],
+    ["image","assets/projects/dev_pipeline/control_room_3.png","3"],
+    ["image","assets/projects/dev_pipeline/char_publisher.png","7"],
+    ["image","assets/projects/dev_pipeline/look_loader.png","5"]
+  ],
+  "preview_img" : "assets/projects/dev_pipeline/icon_preview.png",
+  "next_project" : "avenging_willow"
+}
