@@ -14,10 +14,9 @@
     ["image","assets/projects/terminal/mobile_login.png","4"],
     ["image","assets/projects/terminal/mobile_reserve.png","4"],
     ["image","assets/projects/terminal/mobile_trip.png","4"],
-    ["image","assets/projects/terminal/login.png","8"],
-    ["image","assets/projects/terminal/menu.png","8"],
-    ["image","assets/projects/terminal/create_itinerary.png","8"],
-    ["image","assets/projects/terminal/create_trip.png","8"],
+    ["image","assets/projects/terminal/login.png","12"],
+    ["image","assets/projects/terminal/create_itinerary.png","12"],
+    ["image","assets/projects/terminal/create_trip.png","12"],
     ["text",
       "<div class=\"d-flex justify-content-center text-align-center\"><a href=\"https://github.com/mariusjenin/terminal_web\" class=\"py-3 px-4 m-3 portfolio-btn\" target=\"_blank\">Github of administration site</a></div>"
     ,"12"]

@@ -9,11 +9,11 @@
   "tags" : [ "#web", "#cocktails", "#summer", "#php", "#javascript"],
   "hero_img" : "assets/projects/slurp/cover.png",
   "content" : [
-    ["image","assets/projects/slurp/home.png","10"],
-    ["image","assets/projects/slurp/cocktail.png","10"],
+    ["image","assets/projects/slurp/home.png","12"],
+    ["image","assets/projects/slurp/cocktail.png","12"],
     ["image","assets/projects/slurp/ingredients_1.png","6"],
-    ["image","assets/projects/slurp/research.png","10"],
-    ["image","assets/projects/slurp/ingredients_2.png","10"]
+    ["image","assets/projects/slurp/ingredients_2.png","12"],
+    ["image","assets/projects/slurp/research.png","12"]
   ],
   "preview_img" : "assets/projects/slurp/icon_preview.png",
   "next_project" : "bomberman"

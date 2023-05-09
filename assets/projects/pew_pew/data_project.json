@@ -10,7 +10,7 @@
   "tags" : [ "#game", "#vr", "#spaceship", "#asteroid","#glow", "#shoot", "#unity", "#csharp"],
   "hero_img" : "assets/projects/pew_pew/cover.png",
   "content" : [
-    ["video","assets/projects/pew_pew/vid1.mp4","10"],
+    ["video","assets/projects/pew_pew/vid1.mp4","12"],
     ["image","assets/projects/pew_pew/home.png","5"],
     ["image","assets/projects/pew_pew/models_1.png","7"],
     ["image","assets/projects/pew_pew/asteroid.png","3"],

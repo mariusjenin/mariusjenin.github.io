@@ -9,7 +9,7 @@
   "tags" : ["#simulation", "#3d", "#ai", "#escapegame", "#unity", "#csharp"],
   "hero_img" : "assets/projects/better_spy/cover.png",
   "content" : [
-    ["video","assets/projects/better_spy/vid1.mp4","8"]
+    ["video","assets/projects/better_spy/vid1.mp4","12"]
   ],
   "preview_img" : "assets/projects/better_spy/icon_preview.png",
   "next_project" : "dev_image_processing"

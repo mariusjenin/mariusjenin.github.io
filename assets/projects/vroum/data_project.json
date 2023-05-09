@@ -10,10 +10,9 @@
   "tags" : ["#web", "#carpooling", "#trip", "#javascript", "#php"],
   "hero_img" : "assets/projects/vroum/cover.png",
   "content" : [
-    ["image","assets/projects/vroum/home.png","8"],
-    ["image","assets/projects/vroum/menu.png","8"],
-    ["image","assets/projects/vroum/trip.png","8"],
-    ["image","assets/projects/vroum/search.png","8"]
+    ["image","assets/projects/vroum/menu.png","12"],
+    ["image","assets/projects/vroum/trip.png","12"],
+    ["image","assets/projects/vroum/search.png","12"]
   ],
   "preview_img" : "assets/projects/vroum/icon_preview.png",
   "next_project" : "photonear"

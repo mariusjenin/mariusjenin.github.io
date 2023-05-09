@@ -10,13 +10,13 @@
   "tags" : ["#game", "#3d", "#towerdefense", "#strategy", "#management", "#unity","#csharp"],
   "hero_img" : "assets/projects/avenging_willow/cover.png",
   "content" : [
-    ["video","assets/projects/avenging_willow/vid1.mp4","8"],
+    ["video","assets/projects/avenging_willow/vid1.mp4","12"],
     ["image","assets/projects/avenging_willow/willow.png","5"],
     ["image","assets/projects/avenging_willow/map.png","7"],
     ["image","assets/projects/avenging_willow/victory.png","6"],
     ["image","assets/projects/avenging_willow/defeat.png","6"],
-    ["image","assets/projects/avenging_willow/game_ui_1.png","6"],
-    ["image","assets/projects/avenging_willow/game_ui_2.png","2"]
+    ["image","assets/projects/avenging_willow/game_ui_1.png","9"],
+    ["image","assets/projects/avenging_willow/game_ui_2.png","3"]
   ],
   "preview_img" : "assets/projects/avenging_willow/icon_preview.png",
   "next_project" : "cartoonizer"

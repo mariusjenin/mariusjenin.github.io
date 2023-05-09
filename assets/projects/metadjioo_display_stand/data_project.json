@@ -13,9 +13,9 @@
   "content" : [
     ["image","assets/projects/metadjioo_display_stand/display_stand.png","7"],
     ["image","assets/projects/metadjioo_display_stand/screen_bootle.png","5"],
-    ["image","assets/projects/metadjioo_display_stand/app_1.png","10"],
-    ["image","assets/projects/metadjioo_display_stand/app_2.png","10"],
-    ["image","assets/projects/metadjioo_display_stand/app_3.png","10"]
+    ["image","assets/projects/metadjioo_display_stand/app_1.png","12"],
+    ["image","assets/projects/metadjioo_display_stand/app_2.png","12"],
+    ["image","assets/projects/metadjioo_display_stand/app_3.png","12"]
   ],
   "preview_img" : "assets/projects/metadjioo_display_stand/icon_preview.png",
   "next_project" : "terminal"
