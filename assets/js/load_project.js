@@ -129,7 +129,7 @@ function load_media(){
     if(type === "image"){
         media_html = `<img onclick="event.stopPropagation()" src="${url}" id="media_modal" alt="modal image">`
     } else{
-        media_html = `<video onclick="event.stopPropagation()" id="media_modal" autoplay="" loop="" muted="">
+        media_html = `<video onclick="event.stopPropagation()" id="media_modal" autoplay="" loop="" muted="" controls="" preload="" poster="" incise="" controlslist="nodownload noremoteplayback noplaybackrate">
                         <source src="${url}" type="video/mp4">
                     </video>`
     }

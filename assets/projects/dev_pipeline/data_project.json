@@ -5,11 +5,12 @@
   "description": [
     "These projects were realized while I was in <a href=\"https://www.illogicstudios.com//\" target=\"_blank\"><b>Illogic Studio</b></a>.",
     "There are plugins to existent software like Maya, Nuke or Houdini. These tools help artists work more efficiently or help strengthen the studio's production pipeline.",
-    "We can distinguish tools like the Asset Loader which allows to do versioning on assets and to load them at our convenience, mAIrus which is a tool implementing Chat-GPT in Maya or the Bug-Out Bag which gathers a lot of small useful features."
+    "We can distinguish tools like the <b>Asset Loader</b> which allows to do versioning on assets and to load them at our convenience, <b>Auto Comp</b> which is a tool that create a complete composition tree in one click or the <b>Bug-Out Bag</b> which gathers a lot of small useful features."
   ],
   "tags" : ["#pipeline", "#tool", "#maya", "#nuke", "#chatgpt", "#ai", "#python"],
   "hero_img" : "assets/projects/dev_pipeline/cover.png",
   "content" : [
+    ["video","assets/projects/dev_pipeline/auto_comp_video.mp4","12"],
     ["image","assets/projects/dev_pipeline/shelf.png","10"],
     ["text","","break"],
     ["video","assets/projects/dev_pipeline/shader_maker.mp4","8"],

@@ -10,6 +10,7 @@
   "tags" : [ "#ia", "3d", "#imagegeneration", "#stablediffusion", "#prompt", "#qt", "#python"],
   "hero_img" : "assets/projects/style_dreamer/cover.png",
   "content" : [
+    ["video","assets/projects/style_dreamer/bauble_video.mp4","12"],
     ["image","assets/projects/style_dreamer/ui_1.png","5"],
     ["image","assets/projects/style_dreamer/ui_2.png","7"],
     ["text","<div style=\"height:40px\"></div>"],

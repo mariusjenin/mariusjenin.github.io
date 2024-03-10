@@ -30,18 +30,18 @@ let json_data = [
         "link": "project?project=style_dreamer"
     },
     {
-        "title": "Swing",
-        "period": "Spring 2022",
-        "cover": "assets/projects/swing/icon_preview.png",
-        "categories": ["game 3d"],
-        "link": "project?project=swing"
-    },
-    {
         "title": "Pipeline Development",
         "period": "Winter 2023 &amp; Spring 2023",
         "cover": "assets/projects/dev_pipeline/icon_preview.png",
         "categories": ["3d software ai"],
         "link": "project?project=dev_pipeline"
+    },
+    {
+        "title": "Swing",
+        "period": "Spring 2022",
+        "cover": "assets/projects/swing/icon_preview.png",
+        "categories": ["game 3d"],
+        "link": "project?project=swing"
     },
     {
         "title": "The Avenging Willow",
